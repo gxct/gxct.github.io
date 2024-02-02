@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://gxct.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-02-02T11:03:30.508Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://gxct.github.io"/>
+    <link rel="self" href="http://gxct.github.io/atom.xml"/>
+    <logo>http://gxct.github.io/images/avatar.png</logo>
+    <icon>http://gxct.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>http://gxct.github.io/post/hello-world/</id>
+        <link href="http://gxct.github.io/post/hello-world/">
+        </link>
+        <updated>2022-12-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>网站主页<strong>https://www.cxzpt.top</strong></li>
+</ul>
+]]></content>
+    </entry>
+</feed>
